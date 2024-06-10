@@ -1,0 +1,42 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Vishal/Documents/NetBeansProjects/EmailApp/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Vishal/Documents/NetBeansProjects/EmailApp/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'EmailApp 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'EmailApp 1.0-SNAPSHOT API'
+com.mycompany.emailapp
+C:\Users\Vishal\Documents\NetBeansProjects\EmailApp\src\main\java = 1717409790212
+C:\Users\Vishal\Documents\NetBeansProjects\EmailApp\target\site\apidocs\allclasses-index.html = 1717823404395
+C:\Users\Vishal\Documents\NetBeansProjects\EmailApp\target\site\apidocs\allpackages-index.html = 1717823404403
+C:\Users\Vishal\Documents\NetBeansProjects\EmailApp\target\site\apidocs\element-list = 1717823404272
+C:\Users\Vishal\Documents\NetBeansProjects\EmailApp\target\site\apidocs\help-doc.html = 1717823404526
+C:\Users\Vishal\Documents\NetBeansProjects\EmailApp\target\site\apidocs\index-all.html = 1717823404510
+C:\Users\Vishal\Documents\NetBeansProjects\EmailApp\target\site\apidocs\index.html = 1717823404514
+C:\Users\Vishal\Documents\NetBeansProjects\EmailApp\target\site\apidocs\jquery-ui.overrides.css = 1717823404621
+C:\Users\Vishal\Documents\NetBeansProjects\EmailApp\target\site\apidocs\member-search-index.js = 1717823404423
+C:\Users\Vishal\Documents\NetBeansProjects\EmailApp\target\site\apidocs\module-search-index.js = 1717823404407
+C:\Users\Vishal\Documents\NetBeansProjects\EmailApp\target\site\apidocs\overview-tree.html = 1717823404368
+C:\Users\Vishal\Documents\NetBeansProjects\EmailApp\target\site\apidocs\package-search-index.js = 1717823404411
+C:\Users\Vishal\Documents\NetBeansProjects\EmailApp\target\site\apidocs\script.js = 1717823404541
+C:\Users\Vishal\Documents\NetBeansProjects\EmailApp\target\site\apidocs\search.js = 1717823404551
+C:\Users\Vishal\Documents\NetBeansProjects\EmailApp\target\site\apidocs\stylesheet.css = 1717823404534
+C:\Users\Vishal\Documents\NetBeansProjects\EmailApp\target\site\apidocs\tag-search-index.js = 1717823404429
+C:\Users\Vishal\Documents\NetBeansProjects\EmailApp\target\site\apidocs\type-search-index.js = 1717823404416
